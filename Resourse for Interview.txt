@@ -1,0 +1,56 @@
+Research: 
+
+1. What is IDE?
+2. EXE means?
+3. What is node?
+4. SCM means?
+5. What is Git and why it is used?
+6. What Exactly Is GitHub Anyway?
+
+
+
+
+Answer:
+
+1. An IDE, or Integrated Development Environment, enables programmers to consolidate the different aspects of writing a computer program.IDEs increase programmer productivity by combining common activities of writing software into a single application: editing source code, building executables, and debugging.
+
+2. exe is a very common file type. The .exe file extension is short for “executable.” These files are most commonly used on Windows® computers to install or run software applications.
+
+3. Node.js is a Server side scripting which is used to build scalable programs. Its multiple advantages over other server side languages, the prominent being non-blocking I/O.
+
+4. Source code management (SCM) is used to track modifications to a source code repository. SCM tracks a running history of changes to a code base and helps resolve conflicts when merging updates from multiple contributors. SCM is also synonymous with Version control. 
+
+5. Git is the most commonly used version control system. Git tracks the changes you make to files, so you have a record of what has been done, and you can revert to specific versions should you ever need to. Git also makes collaboration easier, allowing changes by multiple people to all be merged into one source
+
+6. Github is a web-based platform used for version control. Git simplifies the process of working with other people and makes it easy to collaborate on projects. Team members can work on files and easily merge their changes in with the master branch of the project.
+
+
+
+
+
+
+
+Note:
+
+হেভিয়ার কোড এডিটরকে বলা হয় IDE। এর মানে হলো Integrated Developement Environment.
+কোডকে ম্যানেজ ও মেনটেইন করাকে SCM বলা হয়।
+
+
+
+
+
+Resourse Link:
+
+IDE:    https://www.codecademy.com/articles/what-is-an-ide
+EXE:    https://www.webroot.com/us/en/resources/glossary/what-is-an-exe
+Node:   https://www.guru99.com/node-js-interview-questions.html 
+        https://www.codecademy.com/articles/what-is-node
+
+SCM:    https://www.atlassian.com/git/tutorials/source-code-management
+Git:    https://www.nobledesktop.com/blog/what-is-git-and-why-should-you-use-it
+        https://www.atlassian.com/git/tutorials/what-is-git
+
+GitHub: https://techcrunch.com/2012/07/14/what-exactly-is-github-anyway/
+	https://www.edureka.co/blog/how-to-use-github/
+
+
