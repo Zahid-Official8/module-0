@@ -1,12 +1,11 @@
-Research: 
+Question:
 
 1. What is IDE?
 2. EXE means?
-3. What is node?
+3. What is node js?
 4. SCM means?
 5. What is Git and why it is used?
 6. What Exactly Is GitHub Anyway?
-
 
 
 
@@ -26,16 +25,10 @@ Answer:
 
 
 
-
-
-
-
 Note:
 
 হেভিয়ার কোড এডিটরকে বলা হয় IDE। এর মানে হলো Integrated Developement Environment.
 কোডকে ম্যানেজ ও মেনটেইন করাকে SCM বলা হয়। এর মানে হলো Source Code Management
-
-
 
 
 
